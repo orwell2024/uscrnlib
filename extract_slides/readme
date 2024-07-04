@@ -44,3 +44,179 @@ For unmatched USCRN stations, we identified the closest matching GHCN station by
 This repository provides a comprehensive workflow for processing and analyzing built-up surface data for weather stations, matching stations from different datasets, and identifying the closest stations when necessary. The scripts are designed to handle large datasets efficiently and provide detailed output for further analysis.
 
 Feel free to explore the notebooks and scripts provided in this repository for more detailed steps and customizations. If you have any questions or need further assistance, please refer to the documentation or open an issue on GitHub.
+
+Total matched stations: 139
+Matched USCRN stations:
+Original Station: FAIRBANKS_11_NE, USCRN Station: AK_Fairbanks_11_NE, ID: USW00026494
+Original Station: PAXSON, USCRN Station: AK_Glennallen_64_N, ID: USC00507097
+Original Station: KENAI_29_ENE, USCRN Station: AK_Kenai_29_ENE, ID: USW00026563
+Original Station: METLAKATLA_6_S, USCRN Station: AK_Metlakatla_6_S, ID: USW00025381
+Original Station: PORT_ALSWORTH, USCRN Station: AK_Port_Alsworth_1_SW, ID: USC00507570
+Original Station: SAND_POINT_1_ENE, USCRN Station: AK_Sand_Point_1_ENE, ID: USW00025630
+Original Station: SITKA_1_NE, USCRN Station: AK_Sitka_1_NE, ID: USW00025379
+Original Station: YAKUTAT_STATE_AP, USCRN Station: AK_Yakutat_3_SSE, ID: USW00025339
+Original Station: BREWTON_3_ENE, USCRN Station: AL_Brewton_3_NNE, ID: USC00011080
+Original Station: CLANTON_2_NE, USCRN Station: AL_Clanton_2_NE, ID: USW00063891
+Original Station: COURTLAND_2_WSW, USCRN Station: AL_Courtland_2_WSW, ID: USW00063868
+Original Station: CULLMAN_NAHS, USCRN Station: AL_Cullman_3_ENE, ID: USC00012096
+Original Station: FAIRHOPE_2_NE, USCRN Station: AL_Fairhope_3_NE, ID: USC00012813
+Original Station: SAND_MT_SUBSTN, USCRN Station: AL_Gadsden_19_N, ID: USC00017207
+Original Station: GAINESVILLE_LOCK, USCRN Station: AL_Gainesville_2_NE, ID: USC00013160
+Original Station: GREENSBORO_2_WNW, USCRN Station: AL_Greensboro_2_WNW, ID: USW00063893
+Original Station: HIGHLAND_HOME_2_S, USCRN Station: AL_Highland_Home_2_S, ID: USW00073802
+Original Station: MUSCLE_SHOALS_2_N, USCRN Station: AL_Muscle_Shoals_2_N, ID: USW00063894
+Original Station: TUSCALOOSA_OLIVER_DAM, USCRN Station: AL_Northport_2_S, ID: USC00018385
+Original Station: RUSSELLVILLE_4_SSE, USCRN Station: AL_Russellville_4_SSE, ID: USW00063895
+Original Station: SCOTTSBORO_2_NE, USCRN Station: AL_Scottsboro_2_NE, ID: USW00063896
+Original Station: SELMA_13_WNW, USCRN Station: AL_Selma_13_WNW, ID: USW00063858
+Original Station: CRAIG_AFB, USCRN Station: AL_Selma_6_SSE, ID: USW00013850
+Original Station: TALLADEGA_10_NNE, USCRN Station: AL_Talladega_10_NNE, ID: USW00073803
+Original Station: THOMASVILLE_2_S, USCRN Station: AL_Thomasville_2_S, ID: USW00023802
+Original Station: TROY_2_W, USCRN Station: AL_Troy_2_W, ID: USW00023801
+Original Station: VALLEY_HEAD_1_SSW, USCRN Station: AL_Valley_Head_1_SSW, ID: USW00063862
+Original Station: BATESVILLE_8_WNW, USCRN Station: AR_Batesville_8_WNW, ID: USW00023904
+Original Station: ELGIN_5_S, USCRN Station: AZ_Elgin_5_S, ID: USW00053132
+Original Station: TUCSON_11_W, USCRN Station: AZ_Tucson_11_W, ID: USW00053131
+Original Station: WILLIAMS_35_NNW, USCRN Station: AZ_Williams_35_NNW, ID: USW00053155
+Original Station: YUMA_27_ENE, USCRN Station: AZ_Yuma_27_ENE, ID: USW00053154
+Original Station: BODEGA_6_WSW, USCRN Station: CA_Bodega_6_WSW, ID: USW00093245
+Original Station: FALLBROOK_5_NE, USCRN Station: CA_Fallbrook_5_NE, ID: USW00053151
+Original Station: MERCED_23_WSW, USCRN Station: CA_Merced_23_WSW, ID: USW00093243
+Original Station: REDDING_12_WNW, USCRN Station: CA_Redding_12_WNW, ID: USW00004222
+Original Station: SANTA_BARBARA_11_W, USCRN Station: CA_Santa_Barbara_11_W, ID: USW00053152
+Original Station: STOVEPIPE_WELLS_1_SW, USCRN Station: CA_Stovepipe_Wells_1_SW, ID: USW00053139
+Original Station: CRANE_FLAT_LOOKOUT_CALIFORNIA, USCRN Station: CA_Yosemite_Village_12_W, ID: USR0000CCRA
+Original Station: NIWOT, USCRN Station: CO_Boulder_14_W, ID: USS0005J42S
+Original Station: CORTEZ_8_SE, USCRN Station: CO_Cortez_8_SE, ID: USW00003061
+Original Station: DINOSAUR_NATL_MONUMNT, USCRN Station: CO_Dinosaur_2_E, ID: USC00052286
+Original Station: LA_JUNTA_17_WSW, USCRN Station: CO_La_Junta_17_WSW, ID: USW00003063
+Original Station: BLACK_CANYON_COLORADO, USCRN Station: CO_Montrose_11_ENE, ID: USR0000CBLA
+Original Station: NUNN_7_NNE, USCRN Station: CO_Nunn_7_NNE, ID: USW00094074
+Original Station: EVERGLADES_CITY_5_NE, USCRN Station: FL_Everglades_City_5_NE, ID: USW00092826
+Original Station: SEBRING_23_SSE, USCRN Station: FL_Sebring_23_SSE, ID: USW00092827
+Original Station: TITUSVILLE_7_E, USCRN Station: FL_Titusville_7_E, ID: USW00092821
+Original Station: BRUNSWICK_23_S, USCRN Station: GA_Brunswick_23_S, ID: USW00063856
+Original Station: HOGGARDS_MILL, USCRN Station: GA_Newton_11_SW, ID: USC00094388
+Original Station: NEWTON_8_W, USCRN Station: GA_Newton_8_W, ID: USW00063828
+Original Station: WATKINSVILLE_5_SSE, USCRN Station: GA_Watkinsville_5_SSE, ID: USW00063850
+Original Station: HILO_5_S, USCRN Station: HI_Hilo_5_S, ID: USW00021515
+Original Station: MAUNA_LOA_SLOPE_OBS_39, USCRN Station: HI_Mauna_Loa_5_NNE, ID: USC00516198
+Original Station: DES_MOINES_17_E, USCRN Station: IA_Des_Moines_17_E, ID: USW00054902
+Original Station: CRATERS_OF_THE_MOON, USCRN Station: ID_Arco_17_SW, ID: USC00102260
+Original Station: REYNOLDS, USCRN Station: ID_Murphy_10_W, ID: USC00107648
+Original Station: CHAMPAIGN_9_SW, USCRN Station: IL_Champaign_9_SW, ID: USW00054808
+Original Station: SHABBONA_5_NNE, USCRN Station: IL_Shabbona_5_NNE, ID: USW00054811
+Original Station: BEDFORD_5_WNW, USCRN Station: IN_Bedford_5_WNW, ID: USW00063898
+Original Station: MANHATTAN_6_SSW, USCRN Station: KS_Manhattan_6_SSW, ID: USW00053974
+Original Station: OAKLEY_19_SSW, USCRN Station: KS_Oakley_19_SSW, ID: USW00003067
+Original Station: BOWLING_GREEN_21_NNE, USCRN Station: KY_Bowling_Green_21_NNE, ID: USW00063849
+Original Station: VERSAILLES_3_NNW, USCRN Station: KY_Versailles_3_NNW, ID: USW00063838
+Original Station: ST_MARTINVILLE_3_SW, USCRN Station: LA_Lafayette_13_SE, ID: USC00168181
+Original Station: MONROE_26_N, USCRN Station: LA_Monroe_26_N, ID: USW00053961
+Original Station: LIMESTONE_LORING_AFB, USCRN Station: ME_Limestone_4_NNW, ID: USW00014623
+Original Station: OLD_TOWN_2_W, USCRN Station: ME_Old_Town_2_W, ID: USW00094644
+Original Station: CHATHAM_1_SE, USCRN Station: MI_Chatham_1_SE, ID: USW00054810
+Original Station: GAYLORD_9SSW, USCRN Station: MI_Gaylord_9_SSW, ID: USC00203099
+Original Station: GOODRIDGE_12_NNW, USCRN Station: MN_Goodridge_12_NNW, ID: USW00004994
+Original Station: SANDSTONE_6_W, USCRN Station: MN_Sandstone_6_W, ID: USW00054932
+Original Station: CHILLICOTHE_22_ENE, USCRN Station: MO_Chillicothe_22_ENE, ID: USW00013301
+Original Station: JOPLIN_24_N, USCRN Station: MO_Joplin_24_N, ID: USW00023908
+Original Station: SALEM_10_W, USCRN Station: MO_Salem_10_W, ID: USW00023909
+Original Station: HOLLY_SPRINGS_4_N, USCRN Station: MS_Holly_Springs_4_N, ID: USC00224173
+Original Station: NEWTON_5_ENE, USCRN Station: MS_Newton_5_ENE, ID: USW00063831
+Original Station: DILLON_18_WSW, USCRN Station: MT_Dillon_18_WSW, ID: USW00004137
+Original Station: UTICA_11_WSW, USCRN Station: MT_Lewistown_42_WSW, ID: USC00248495
+Original Station: WOLF_POINT_29_ENE, USCRN Station: MT_Wolf_Point_29_ENE, ID: USW00094060
+Original Station: WOLF_POINT_34_NE, USCRN Station: MT_Wolf_Point_34_NE, ID: USW00094059
+Original Station: FLETCHER_3_W, USCRN Station: NC_Asheville_13_S, ID: USC00313106
+Original Station: ASHEVILLE_8_SSW, USCRN Station: NC_Asheville_8_SSW, ID: USW00053877
+Original Station: DUKE_FOREST_NORTH_CAROLINA, USCRN Station: NC_Durham_11_W, ID: USR0000NDUK
+Original Station: JAMESTOWN_38_WSW, USCRN Station: ND_Jamestown_38_WSW, ID: USW00054937
+Original Station: MEDORA_7_E, USCRN Station: ND_Medora_7_E, ID: USW00094080
+Original Station: NORTHGATE_5_ESE, USCRN Station: ND_Northgate_5_ESE, ID: USW00094084
+Original Station: AGATE_3_E, USCRN Station: NE_Harrison_20_SSE, ID: USC00250030
+Original Station: LINCOLN_11_SW, USCRN Station: NE_Lincoln_11_SW, ID: USW00094996
+Original Station: LINCOLN_8_ENE, USCRN Station: NE_Lincoln_8_ENE, ID: USW00094995
+Original Station: WHITMAN_5_ENE, USCRN Station: NE_Whitman_5_ENE, ID: USW00094079
+Original Station: DURHAM_2_N, USCRN Station: NH_Durham_2_N, ID: USW00054794
+Original Station: DURHAM_2_SSW, USCRN Station: NH_Durham_2_SSW, ID: USW00054795
+Original Station: JORNADA_EXP_RANGE, USCRN Station: NM_Las_Cruces_20_N, ID: USC00294426
+Original Station: LOS_ALAMOS_13_W, USCRN Station: NM_Los_Alamos_13_W, ID: USW00003062
+Original Station: SOCORRO_20_N, USCRN Station: NM_Socorro_20_N, ID: USW00003048
+Original Station: LEHMAN_CAVES_NM, USCRN Station: NV_Baker_5_W, ID: USC00264514
+Original Station: SHELDON, USCRN Station: NV_Denio_52_WSW, ID: USC00267443
+Original Station: MERCURY_DESERT_ROCK_AP, USCRN Station: NV_Mercury_3_SSW, ID: USW00003160
+Original Station: ITHACA_13_E, USCRN Station: NY_Ithaca_13_E, ID: USW00064758
+Original Station: MILLBROOK_3_W, USCRN Station: NY_Millbrook_3_W, ID: USW00064756
+Original Station: GOODWELL_2_E, USCRN Station: OK_Goodwell_2_E, ID: USW00003055
+Original Station: GOODWELL_2_SE, USCRN Station: OK_Goodwell_2_SE, ID: USW00053182
+Original Station: STILLWATER_MESONET, USCRN Station: OK_Stillwater_2_W, ID: USC00348499
+Original Station: STILLWATER_5_WNW, USCRN Station: OK_Stillwater_5_WNW, ID: USW00053927
+Original Station: EGBERT_CS, USCRN Station: ON_Egbert_1_W, ID: CA00611E001
+Original Station: COOS_BAY_8_SW, USCRN Station: OR_Coos_Bay_8_SW, ID: USW00004141
+Original Station: DAYVILLE_8_NW, USCRN Station: OR_John_Day_35_WNW, ID: USC00352173
+Original Station: RILEY_10_WSW, USCRN Station: OR_Riley_10_WSW, ID: USW00004128
+Original Station: AVONDALE_2_N, USCRN Station: PA_Avondale_2_N, ID: USW00003761
+Original Station: KINGSTON, USCRN Station: RI_Kingston_1_NW, ID: USC00374266
+Original Station: KINGSTON_1_W, USCRN Station: RI_Kingston_1_W, ID: USW00054797
+Original Station: BLACKVILLE_3_W, USCRN Station: SC_Blackville_3_W, ID: USC00380764
+Original Station: MCCLELLANVILLE_7_NE, USCRN Station: SC_McClellanville_7_NE, ID: USW00003728
+Original Station: ABERDEEN_35_WNW, USCRN Station: SD_Aberdeen_35_WNW, ID: USW00054933
+Original Station: BUFFALO_13_ESE, USCRN Station: SD_Buffalo_13_ESE, ID: USW00094081
+Original Station: PIERRE_24_S, USCRN Station: SD_Pierre_24_S, ID: USW00094085
+Original Station: SIOUX_FALLS_14_NNE, USCRN Station: SD_Sioux_Falls_14_NNE, ID: USW00004990
+Original Station: CROSSVILLE_EDRESEARCH, USCRN Station: TN_Crossville_7_NW, ID: USC00402202
+Original Station: AUSTIN_33_NW, USCRN Station: TX_Austin_33_NW, ID: USW00023907
+Original Station: BRONTE_11_NNE, USCRN Station: TX_Bronte_11_NNE, ID: USW00003072
+Original Station: EDINBURG_17_NNE, USCRN Station: TX_Edinburg_17_NNE, ID: USW00012987
+Original Station: MONAHANS_6_ENE, USCRN Station: TX_Monahans_6_ENE, ID: USW00003047
+Original Station: MULESHOE_NTL_WR, USCRN Station: TX_Muleshoe_19_S, ID: USC00416137
+Original Station: PALESTINE_6_WNW, USCRN Station: TX_Palestine_6_WNW, ID: USW00053968
+Original Station: PANTHER_JUNCTION_2_N, USCRN Station: TX_Panther_Junction_2_N, ID: USW00022016
+Original Station: PORT_ARANSAS_32_NNE, USCRN Station: TX_Port_Aransas_32_NNE, ID: USW00023906
+Original Station: BRIGHAM_CITY_28_WNW, USCRN Station: UT_Brigham_City_28_WNW, ID: USW00004138
+Original Station: TORREY_7_E, USCRN Station: UT_Torrey_7_E, ID: USW00053149
+Original Station: CAPE_CHARLES_5_ENE, USCRN Station: VA_Cape_Charles_5_ENE, ID: USW00003739
+Original Station: CHARLOTTESVILLE_2_SSE, USCRN Station: VA_Charlottesville_2_SSE, ID: USW00003759
+Original Station: DARRINGTON_21_NNE, USCRN Station: WA_Darrington_21_NNE, ID: USW00004223
+Original Station: QUINAULT_4_NE, USCRN Station: WA_Quinault_4_NE, ID: USW00004237
+Original Station: SPOKANE_17_SSW, USCRN Station: WA_Spokane_17_SSW, ID: USW00004136
+Original Station: NECEDAH_5_WNW, USCRN Station: WI_Necedah_5_WNW, ID: USW00054903
+Original Station: ELKINS_21_ENE, USCRN Station: WV_Elkins_21_ENE, ID: USW00003733
+Original Station: LANDER_11_SSE, USCRN Station: WY_Lander_11_SSE, ID: USW00094078
+Original Station: MOOSE, USCRN Station: WY_Moose_1_NNE, ID: USC00486428
+Original Station: SUNDANCE_8_NNW, USCRN Station: WY_Sundance_8_NNW, ID: USW00094088
+Missing USCRN stations:
+AK_Aleknagik_1_NNE
+AK_Bethel_87_WNW
+AK_Cordova_14_ESE
+AK_Deadhorse_3_S
+AK_Galena_44_SW
+AK_Gustavus_2_NE
+AK_Huslia_27_E
+AK_King_Salmon_42_SE
+AK_Red_Dog_Mine_3_SSW
+AK_Ruby_44_ESE
+AK_Selawik_28_E
+AK_Tok_70_SE
+AK_Toolik_Lake_5_ENE
+AK_Utqiagvik_formerly_Barrow_4_ENE
+OH_Wooster_3_SSE
+
+Closest GHCN locations for missing USCRN stations:
+USCRN Station: AK_Aleknagik_1_NNE, Closest GHCN Station: DILLINGHAM_FAA_AP, Distance: 26.17 km
+USCRN Station: AK_Bethel_87_WNW, Closest GHCN Station: REINDEER_RIVER_ALASKA, Distance: 85.62 km
+USCRN Station: AK_Cordova_14_ESE, Closest GHCN Station: CORDOVA_M_K_SMITH_AP, Distance: 5.95 km
+USCRN Station: AK_Deadhorse_3_S, Closest GHCN Station: UMIAT, Distance: 167.21 km
+USCRN Station: AK_Galena_44_SW, Closest GHCN Station: KAIYUH_ALASKA, Distance: 9.62 km
+USCRN Station: AK_Gustavus_2_NE, Closest GHCN Station: GUSTAVUS, Distance: 2.38 km
+USCRN Station: AK_Huslia_27_E, Closest GHCN Station: COTTONWOOD_ALASKA, Distance: 40.90 km
+USCRN Station: AK_King_Salmon_42_SE, Closest GHCN Station: KING_SALMON, Distance: 66.71 km
+USCRN Station: AK_Red_Dog_Mine_3_SSW, Closest GHCN Station: NOATAK_ALASKA, Distance: 175.95 km
+USCRN Station: AK_Ruby_44_ESE, Closest GHCN Station: ROUND_LAKE_ALASKA, Distance: 22.51 km
+USCRN Station: AK_Selawik_28_E, Closest GHCN Station: SELAWIK_ALASKA, Distance: 6.94 km
+USCRN Station: AK_Tok_70_SE, Closest GHCN Station: ALCAN_HWY_MI_1244_ALASKA, Distance: 15.65 km
+USCRN Station: AK_Toolik_Lake_5_ENE, Closest GHCN Station: CHANDALAR_LAKE, Distance: 132.54 km
+USCRN Station: AK_Utqiagvik_formerly_Barrow_4_ENE, Closest GHCN Station: UMIAT, Distance: 274.70 km
+USCRN Station: OH_Wooster_3_SSE, Closest GHCN Station: WOOSTER_EXP_STATION, Distance: 2.65 km
+Updated CSV file with USCRN_Y_N column saved.
