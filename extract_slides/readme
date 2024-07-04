@@ -1,1 +1,46 @@
-Various stuff. You'll have to figure it out yourself. I don't comment but do stuff generally. 
+# Weather Station Analysis
+
+This repository contains various scripts and data related to the analysis of weather stations. The primary focus is on processing and analyzing built-up surface data for different weather stations using the Google Earth Engine.
+
+## Contents
+
+- `2024stations_days.csv`: CSV file containing information about USCRN weather stations for the year 2024, derived from NOAA raw data, indicating the number of reporting days up to the test point.
+- `COPERNICUS_S2_SR_HARMONIZED.ipynb`: Jupyter notebook for processing Sentinel-2 data using Google Earth Engine.
+- `GHCN_stations_with_Landsat_GHSL_BU_1975to2020_metadata.csv`: CSV file containing metadata for GHCN stations with built-up surface data.
+- `USCRN_station_EC_GHSL_BU_data.csv`: CSV file containing data for USCRN stations with built-up surface information.
+- `extract_from_photoslides.ipynb`: Jupyter notebook for extracting data from photoslides.
+- `stations2024.csv`: CSV file with station information for 2024.
+- `weather_stations.gif`: Animated GIF showing weather station data.
+- `README.md`: This readme file.
+
+## Overview
+
+This project involves processing and analyzing built-up surface data for various weather stations. The key steps include:
+1. **Loading and Cleaning Data**: Reading CSV files, cleaning the data, and preparing it for analysis.
+2. **Processing Built-Up Surface Data**: Using Google Earth Engine to process built-up surface data from the GHSL dataset.
+3. **Matching Stations**: Matching weather stations from different datasets based on location and updating the information accordingly.
+4. **Finding Closest Stations**: For unmatched stations, finding the closest matching station from another dataset and calculating the distance.
+
+## Steps and Scripts
+
+### 1. Loading and Cleaning Data
+
+We read the CSV files containing weather station data and cleaned the data for further processing. This involved removing unnecessary characters and ensuring consistent formatting. The `2024stations_days.csv` file was derived from NOAA raw data for 2024, listing all USCRN stations currently reporting data and the number of days they have reported up to the test point.
+
+### 2. Processing Built-Up Surface Data
+
+Using Google Earth Engine, we processed built-up surface data from the GHSL dataset for different cell sizes (50km, 10km, 2km). We calculated the average built-up surface percentage for 1975 and 2020, along with the percentage change over the years.
+
+### 3. Matching Stations
+
+We matched weather stations from the NOAA dataset with those from the GHSL dataset based on their geographical coordinates. This involved updating the station information to indicate whether they matched a USCRN station and adding the USCRN station name where applicable.
+
+### 4. Finding Closest Stations
+
+For unmatched USCRN stations, we identified the closest matching GHCN station by calculating the distance between their geographical coordinates using the Haversine formula. This step helped us find the nearest GHCN station for each unmatched USCRN station and record the distance.
+
+## Conclusion
+
+This repository provides a comprehensive workflow for processing and analyzing built-up surface data for weather stations, matching stations from different datasets, and identifying the closest stations when necessary. The scripts are designed to handle large datasets efficiently and provide detailed output for further analysis.
+
+Feel free to explore the notebooks and scripts provided in this repository for more detailed steps and customizations. If you have any questions or need further assistance, please refer to the documentation or open an issue on GitHub.
