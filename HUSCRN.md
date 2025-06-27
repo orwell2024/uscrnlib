@@ -154,6 +154,8 @@ fig.text(0.01, -0.05,
 plt.tight_layout()
 plt.show()
 ```python
-![image](https://github.com/user-attachments/assets/7a8f3f72-c7af-4444-aa23-7d97df21777d)
-![image](https://github.com/user-attachments/assets/6cf7d823-0a11-4a4f-9619-112ed234f84f)
+
+![image](https://github.com/user-attachments/assets/24035c63-0a64-4365-90cd-62f542588fc7)
+
+
 
