@@ -149,3 +149,4 @@ plt.show()
 ```python
 
 ```
+![image](https://github.com/user-attachments/assets/68ca8c04-9f64-4a70-9540-4c2e9c831cb1)
