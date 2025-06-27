@@ -1,4 +1,4 @@
-'''' python
+```python
 
 # Educational Notebook : USCRN Legacy Pairs, GHCNv4 RAW. 
 # 8 golden USCRN pairs used
@@ -153,4 +153,7 @@ fig.text(0.01, -0.05,
 
 plt.tight_layout()
 plt.show()
-'''
+```python
+![image](https://github.com/user-attachments/assets/7a8f3f72-c7af-4444-aa23-7d97df21777d)
+![image](https://github.com/user-attachments/assets/6cf7d823-0a11-4a4f-9619-112ed234f84f)
+
