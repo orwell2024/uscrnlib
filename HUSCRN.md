@@ -157,5 +157,6 @@ plt.show()
 ```
 ![image](https://github.com/user-attachments/assets/24035c63-0a64-4365-90cd-62f542588fc7)
 
+![image](https://github.com/user-attachments/assets/fa748156-2bfb-4f42-ab39-c3521aec9261)
 
 
