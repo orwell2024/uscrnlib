@@ -77,11 +77,11 @@ All annual results shown here start in 1900. That keeps a few very early legacy 
 - Match map: `outputs/figures/uscrn_legacy_station_match_map.png`
 - Composite versus full gridded comparison: `outputs/figures/uscrn_composite_vs_full_conus_tavg_anomaly_1991_2020.png`
 
-![Annual TAVG anomalies](figures/uscrn_legacy_tavg_anomaly_1991_2020.png)
+![Annual TAVG anomalies](uscrn_legacy_tavg_anomaly_1991_2020.png)
 
-![USCRN legacy station match map](figures/uscrn_legacy_station_match_map.png)
+![USCRN legacy station match map](uscrn_legacy_station_match_map.png)
 
-![Composite versus full gridded comparison](figures/uscrn_composite_vs_full_conus_tavg_anomaly_1991_2020.png)
+![Composite versus full gridded comparison](uscrn_composite_vs_full_conus_tavg_anomaly_1991_2020.png)
 
 ## Data And Method
 
