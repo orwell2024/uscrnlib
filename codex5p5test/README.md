@@ -1,5 +1,5 @@
 # USCRN Replacement-Pair Temperature Composite, 1900-Present
-## USer Promt summary
+## User Promt summary
 
 Create a self-contained Python workflow to analyze whether USCRN sites have nearby legacy GHCNm v4 monthly TAVG stations.
 
